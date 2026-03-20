@@ -1,0 +1,22 @@
+Fecha,Producto,Categoria,Cantidad,PrecioUnitario,Cliente,Region
+2023-01-05,Laptop,Electrónica,2,850,Empresa A,Santiago
+2023-01-07,Mouse,Accesorios,5,20,Cliente B,Valparaíso
+2023-01-10,Escritorio,Muebles,1,300,Cliente C,Concepción
+2023-02-02,Monitor,Electrónica,3,200,Empresa D,Santiago
+2023-02-15,Silla,Muebles,4,150,Cliente E,Antofagasta
+2023-03-01,Teclado,Accesorios,6,35,Cliente F,Valdivia
+2023-03-12,Laptop,Electrónica,1,900,Cliente G,Santiago
+2023-04-05,Mouse,Accesorios,10,18,Empresa H,Valparaíso
+2023-04-20,Escritorio,Muebles,2,280,Cliente I,Concepción
+2023-05-03,Monitor,Electrónica,5,210,Cliente J,Santiago
+2023-05-18,Silla,Muebles,3,160,Cliente K,Antofagasta
+2023-06-01,Teclado,Accesorios,8,40,Cliente L,Valdivia
+2023-06-15,Laptop,Electrónica,2,870,Empresa M,Santiago
+2023-07-02,Mouse,Accesorios,7,22,Cliente N,Valparaíso
+2023-07-19,Escritorio,Muebles,1,310,Cliente O,Concepción
+2023-08-05,Monitor,Electrónica,4,205,Cliente P,Santiago
+2023-08-21,Silla,Muebles,2,155,Cliente Q,Antofagasta
+2023-09-03,Teclado,Accesorios,9,38,Cliente R,Valdivia
+2023-09-17,Laptop,Electrónica,3,880,Empresa S,Santiago
+2023-10-01,Mouse,Accesorios,6,19,Cliente T,Valparaíso
+2023-10-15,Escritorio,Muebles,2,295,Cliente U,Concepción

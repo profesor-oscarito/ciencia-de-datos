@@ -1,0 +1,2 @@
+Actividad14/hogares_censo2024.csv filter=lfs diff=lfs merge=lfs -text
+Actividad14/precio_consumidor_2025.csv filter=lfs diff=lfs merge=lfs -text
