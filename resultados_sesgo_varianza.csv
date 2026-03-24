@@ -1,0 +1,6 @@
+Modelo,Complejidad,Sesgo,Varianza,MSE_Entrenamiento,MSE_Prueba,Brecha_Test_Train,RMSE_Prueba,R2_Prueba,R2_Entrenamiento
+Regresión Lineal,Baja,Alto,Baja,45.7566,23.9012,-21.8554,4.8889,0.9456,0.8941
+Polinomio Grado 2,Media,Moderado,Moderada,0.0,121.0376,121.0376,11.0017,0.7243,1.0
+Polinomio Grado 3,Media-Alta,Moderado,Moderada,0.0,193.9808,193.9808,13.9277,0.5582,1.0
+Polinomio Grado 5,Muy Alta,Bajo,Alta,0.0,1163.1679,1163.1679,34.1052,-1.6492,1.0
+Árbol de Decisión,Muy Alta,Muy Bajo,Muy Alta,0.0,408.0714,408.0714,20.2008,0.0706,1.0
