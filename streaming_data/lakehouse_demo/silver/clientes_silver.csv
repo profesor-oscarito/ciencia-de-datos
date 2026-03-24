@@ -1,0 +1,21 @@
+customer_id,nombre,region,segmento,fecha_registro,ingestion_ts
+1,Cliente_001,Norte,pyme,2023-10-09,2026-03-23 00:12:49
+2,Cliente_002,Sur,pyme,2023-05-23,2026-03-23 00:12:49
+3,Cliente_003,Norte,retail,2024-07-12,2026-03-23 00:12:49
+4,Cliente_004,Norte,retail,2024-03-08,2026-03-23 00:12:49
+5,Cliente_005,Norte,pyme,2023-04-06,2026-03-23 00:12:49
+6,Cliente_006,Sur,pyme,2024-06-01,2026-03-23 00:12:49
+7,Cliente_007,Norte,retail,2023-07-23,2026-03-23 00:12:49
+8,Cliente_008,Occidente,pyme,2024-04-04,2026-03-23 00:12:49
+9,Cliente_009,Centro,pyme,2023-06-13,2026-03-23 00:12:49
+10,Cliente_010,Occidente,corporativo,2023-10-12,2026-03-23 00:12:49
+11,Cliente_011,Sur,pyme,2023-12-11,2026-03-23 00:12:49
+12,Cliente_012,Norte,pyme,2024-01-25,2026-03-23 00:12:49
+13,Cliente_013,Norte,corporativo,2023-12-19,2026-03-23 00:12:49
+14,Cliente_014,Centro,pyme,2024-04-15,2026-03-23 00:12:49
+15,Cliente_015,Norte,corporativo,2023-03-22,2026-03-23 00:12:49
+16,Cliente_016,Centro,retail,2024-01-06,2026-03-23 00:12:49
+17,Cliente_017,Sur,retail,2023-03-13,2026-03-23 00:12:49
+18,Cliente_018,Norte,retail,2023-08-22,2026-03-23 00:12:49
+19,Cliente_019,Centro,pyme,2023-08-27,2026-03-23 00:12:49
+20,Cliente_020,Norte,corporativo,2023-10-12,2026-03-23 00:12:49
