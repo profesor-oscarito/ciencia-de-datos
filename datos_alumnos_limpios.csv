@@ -1,0 +1,181 @@
+nombre,apellido,semestre,edad,nota
+Natalia,Mendoza,4,22.0,6.09
+pedro,A guilar,1,26.0,5.285
+Ramon,Rivera,3,24.0,2.93
+Gabriela,Flore,8,29.0,5.71
+Carlos,Martinez,3,24.0,5.285
+Gabriela,Rivera,3,19.0,5.285
+sin_nombre,sin_apellido,3,24.0,5.285
+Beatriz,Gomez,6,27.0,0.41
+Luis , Vargas,1,20.0,2.83
+Claudia,Delgad,3,28.0,5.285
+ Patricia ,Lope, 8,24.0,5.285
+Andres,Flores,4,24.0,6.09
+S ofia,rojas,3,26.0,5.285
+Luis,Ortiz,4,17.0,5.22
+Daniela,Herrera,3,24.0,3.23
+Luisa,Paredes ,10,21.0,5.285
+ Patricia,Lopez,8,23.0,5.285
+Ramon,Torres,4,17.0,5.285
+Oscar,Gonzalez,4,29.0,5.285
+Patricia,Jimenez,1,30.0,5.285
+Luisa,Cruz,3,28.0,5.285
+Fernando,ortiz,5,30.0,5.285
+Fernando,RUIZ,6,24.0,5.285
+Luis,Lopez,4,30.0,5.285
+sin_nombre,Gomez,3,24.0,5.285
+Luisa,Diaz,3,28.0,5.285
+Maria,Cruz ,1,20.0,5.285
+sin_nombre,Ortiz,3,29.0,2.41
+Claudia,sin_apellido,5,27.0,5.285
+r aul,CASTRO, 6,18.0,1.73
+RAUL,Martinez,3,18.0,5.285
+Luis,SILVA,10,21.0,5.285
+Patricia,Gomez,9,24.0,5.285
+sin_nombre,Mendoza,10,24.0,5.285
+Natalia,Diaz,3,18.0,5.76
+Oscar,Sanchez,4,18.0,5.285
+Natalia,Rojas ,9,21.0,6.46
+sin_nombre,Ramirez,4,29.0,1.0
+Oscar,sin_apellido,4,26.0,5.285
+-,Torres,6,29.0,5.285
+Jose ,-,1,24.0,2.86
+Elena,Paredes,10,24.0,5.285
+sin_nombre,navarro,1,24.0,5.285
+Fernando,S anchez,4,27.0,2.79
+ Jorge,Rodriguez,5,21.0,0.73
+Ramon,Silva,5,19.0,5.6
+Patricia,Navarro,3,29.0,5.285
+Natalia,Gonzalez,1,19.0,5.285
+Raul,Rodriguez,5,24.0,5.285
+Camila,Perez,9,24.0,5.99
+Fernando,Martinez,5,21.0,5.285
+Miguel, Ramirez,3,25.0,5.285
+Laura,Lopez,8,25.0,1.56
+?,Medina,6,24.0,5.285
+sin_nombre,Diaz,6,25.0,5.285
+Ana,?,9,28.0,5.285
+Claudia,Torre,7,24.0,5.285
+raul,Castro,6,24.0,1.73
+Valeria,Suarez,8,17.0,5.285
+Ricardo,Suarez,2,66.0,5.285
+Andres,Vargas,7,26.0,5.285
+sin_nombre,sin_apellido,2,19.0,5.285
+Diego,Martinez,3,21.0,4.54
+valeria,Martine,3,21.0,5.285
+sin_nombre,morales,8,19.0,5.285
+ Jose,Rivera,4,20.0,1.57
+ Carlos,Perez,5,24.0,4.87
+Ramon,Silva,1,25.0,5.285
+Gabriela,?,5,27.0,5.35
+Luis,Mendoza,7,21.0,5.285
+Jua,sin_apellido,8,24.0,2.01
+Carlos,Flores,7,27.0,5.285
+sin_nombre,Aguilar,10,66.0,5.285
+Sofia ,Vargas,1,24.0,5.285
+ Andres,Vargas,4,27.0,5.285
+Jorge,Torres,9,29.0,5.285
+Pedro,Garcia,1,26.0,5.285
+Ana,ORTIZ,3,26.0,5.285
+Juan,Lope,3,21.0,5.285
+Sofia,Vargas,2,24.0,5.6
+S ofia,Flores,4,21.0,5.285
+Oscar,Vargas,3,24.0,5.285
+J orge,S uarez,3,23.0,5.0
+Camila,Perez,3,27.0,2.06
+Andres,Jimene,5,24.0,2.62
+Patricia,Cruz,9,22.0,4.67
+Fernando,Ortiz,4,22.0,5.285
+Patricia,Perez,10,24.0,5.285
+Paula,Ramirez,9,24.0,5.285
+CAMILA,Martinez,6,20.0,5.285
+Beatriz,Cruz,4,28.0,7.0
+-,Lopez,4,27.0,2.42
+Daniela,sanchez,2,30.0,5.285
+Beatriz,diaz,4,23.0,5.285
+Fernando,Diaz,1,28.0,5.285
+Raul,Gomez,5,25.0,3.89
+Miguel,Ramirez,9,24.0,5.48
+Elena ,Rodriguez,4,27.0,5.285
+Raul,TORRES,4,24.0,1.0
+ Miguel,Garcia,6,66.0,5.285
+Sofia,Ortiz,3,20.0,2.0
+Claudia,Ruiz,2,18.0,5.285
+Elena,Vargas,6,24.0,5.285
+Natalia,Rodriguez,3,24.0,5.285
+Pedro,Martinez,10,24.0,0.56
+Luis,A guilar,3,22.0,5.285
+Laura,Medina,3,29.0,2.0
+sin_nombre,Ramirez,8,22.0,5.285
+Maria,sin_apellido,8,29.0,5.285
+Ricardo,Morales,4,24.0,5.285
+Luis,Cruz ,8,23.0,5.285
+Beatriz,Vargas,2,23.0,2.4
+Luis,Vargas,1,17.0,2.83
+Fernand,S anchez ,4,19.0,2.79
+Juan,Mendoza,3,25.0,5.285
+Jorge,Ramirez,5,26.0,4.0
+Laura,Herrera,3,24.0,5.285
+Daniela,Torres,7,23.0,5.285
+pedro,Jimenez,9,23.0,5.285
+Daniela, Lopez,1,23.0,5.285
+Oscar, Aguilar,8,25.0,5.18
+E lena,Torres,10,25.0,2.12
+Natalia,Lopez,3,26.0,5.285
+Fernando,Paredes,3,27.0,0.41
+Sergio,LOPEZ,3,26.0,5.285
+Ana ,Ramirez,9,17.0,2.72
+luisa,SUAREZ,3,24.0,5.285
+Miguel,Rodriguez,3,24.0,5.285
+Ana,Cruz,9,24.0,3.9
+Valeria,Lopez,6,26.0,5.285
+Valeria,AGUILAR,6,28.0,5.285
+Maria,sin_apellido,1,27.0,5.285
+L uis,Castro,5,24.0,5.285
+BEATRIZ,CRUZ,6,29.0,5.285
+Andres,ruiz,3,26.0,3.0
+Fernando ,Medina,5,19.0,5.285
+Andres,Ramirez,5,26.0,5.285
+Fernando,Paredes,10,28.0,5.285
+Luisa,Garcia,3,24.0,5.285
+Fernand,ORTIZ, 5,24.0,5.285
+Valeria, Diaz,7,26.0,5.285
+Jorge , Sanchez,3,24.0,1.13
+Ana,Medina,7,29.0,5.285
+Carlos,Garcia,9,25.0,5.285
+sin_nombre,sin_apellido,3,23.0,5.285
+Raul ,M endoza,3,18.0,5.64
+Natalia ,Rodriguez,3,20.0,5.285
+Juan,jimenez,7,20.0,5.285
+Diego,Torres,4,19.0,5.285
+sin_nombre,Lopez,4,20.0,5.285
+Claudia,Sanchez,10,21.0,5.285
+Carlos,Silva,4,24.0,1.92
+Sergio,Gonzale,3,23.0,5.0
+Jorge,Rojas,2,22.0,5.285
+Fernando , Paredes,3,27.0,0.41
+Luisa,Suarez,3,29.0,5.285
+Pedro,?,6,22.0,1.48
+Ramon,sin_apellido,7,27.0,2.82
+-,Vargas,2,20.0,0.81
+Valeria,Gonzalez,3,26.0,5.285
+Miguel,Sanchez,3,26.0,4.28
+Camila,Medina,3,22.0,5.285
+Beatriz,Suarez,8,21.0,3.41
+andres,Gomez,4,24.0,5.285
+Jose,RIVERA,2,24.0,7.0
+ Laura,Vargas ,10,24.0,0.0
+Ramo,CASTRO,3,24.0,5.285
+ Raul, TORRES, 4,24.0,1.0
+Diego,Martinez,2,24.0,5.285
+Natalia,Delgado,7,24.0,5.285
+Pedro,Navarro,2,24.0,1.85
+Miguel,Martinez,6,24.0,5.285
+Sofia,M endoza,6,24.0,5.99
+GABRIELA,Suarez,5,24.0,5.285
+Luis,Navarro,4,24.0,5.285
+ Beatriz,Morales,9,24.0,5.285
+Natalia,Ruiz,4,24.0,5.285
+diego,Ramirez,2,24.0,5.285
+ N/A,Silva,4,24.0,5.285
+Patricia,Delgado,3,24.0,5.69
