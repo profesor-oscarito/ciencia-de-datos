@@ -1,0 +1,110 @@
+[
+    [
+        "id_vivienda",
+        "Identificador único de la vivienda",
+        "String",
+        "Puede repetirse si hay más de un hogar"
+    ],
+    [
+        "id_hogar",
+        "Identificador del hogar dentro de la vivienda",
+        "String",
+        "Único por vivienda"
+    ],
+    [
+        "region",
+        "Región de Chile",
+        "Categoría",
+        "1–16 o nombre"
+    ],
+    [
+        "provincia",
+        "Provincia",
+        "Texto",
+        "Nombre oficial"
+    ],
+    [
+        "comuna",
+        "Comuna",
+        "Texto",
+        "Nombre oficial"
+    ],
+    [
+        "comuna_bajo_umbral",
+        "Indicador de comuna pequeña",
+        "Binaria",
+        "1=Sí, 0=No"
+    ],
+    [
+        "area",
+        "Tipo de área",
+        "Categoría",
+        "1=Urbana, 2=Rural"
+    ],
+    [
+        "tipo_operativo",
+        "Tipo de levantamiento censal",
+        "Categoría",
+        "Presencial u otro"
+    ],
+    [
+        "p12_tenencia_viv",
+        "Tenencia de la vivienda",
+        "Categoría",
+        "1=Propia pagada,2=Pagando,3=Arrendada,4=Cedida,5=Otra"
+    ],
+    [
+        "p13_comb_cocina",
+        "Combustible para cocinar",
+        "Categoría",
+        "1=Electricidad,2=Gas,3=Leña,4=Carbón,5=Parafina,6=Otro"
+    ],
+    [
+        "p14_comb_calefaccion",
+        "Combustible para calefacción",
+        "Categoría",
+        "1=Electricidad,2=Gas,3=Leña,4=Pellets,5=Parafina,6=Carbón,7=Solar/Otro,8=Ninguno"
+    ],
+    [
+        "p15a_serv_tel_movil",
+        "Tiene teléfono móvil",
+        "Binaria",
+        "1=Sí,2=No"
+    ],
+    [
+        "p15b_serv_compu",
+        "Tiene computador",
+        "Binaria",
+        "1=Sí,2=No"
+    ],
+    [
+        "p15c_serv_tablet",
+        "Tiene tablet",
+        "Binaria",
+        "1=Sí,2=No"
+    ],
+    [
+        "p15d_serv_internet_fija",
+        "Tiene internet fija",
+        "Binaria",
+        "1=Sí,2=No"
+    ],
+    [
+        "p15e_serv_internet_movil",
+        "Tiene internet móvil",
+        "Binaria",
+        "1=Sí,2=No"
+    ],
+    [
+        "p15f_serv_internet_satelital",
+        "Tiene internet satelital",
+        "Binaria",
+        "1=Sí,2=No"
+    ],
+    [
+        "tipologia_hogar",
+        "Tipo de hogar",
+        "Categoría",
+        "1=Unipersonal,2=Nuclear sin hijos,3=Nuclear con hijos,4=Monoparental,5=Extendido,6=Compuesto,7=Sin núcleo"
+    ]
+]
